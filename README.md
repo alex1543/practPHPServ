@@ -8,3 +8,7 @@
 Потом открыть страницу в браузере: http://localhost:8000/
 
 Пример гарантированно работает с ApacheFriends XAMPP Version 7.4.27 (MariaDB 10.4.22, PHP 7.4.27).
+
+Допустима работа на OS X. Нужно выполнить файл: mac_serv_php.sh
+
+<img width="1045" alt="Снимок экрана 2023-07-26 в 22 54 27" src="https://github.com/alex1543/practPHPServ/assets/10297748/70f030fd-01db-4e01-8a29-e9cdc34063e0">
